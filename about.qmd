@@ -1,0 +1,28 @@
+---
+title: "Location"
+image: map.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 20em 
+  links:
+    - icon: pin-map
+      text: see in Google Maps
+      href: https://www.google.es/maps/place/Centre+Esther+Koplowitz/@41.3889194,2.1482118,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a28461d52191:0x95bb0dca9f0f7b41!8m2!3d41.3889154!4d2.1507867!16s%2Fg%2F11b6gjrssc?entry=ttu
+---
+
+**Location:**
+
+Centre Esther Koplowitz
+
+Esteve Auditorium
+
+c/ Rosselló, 149-153. 08036, Barcelona
+
+------------------------------------------------------------------------
+
+**How to find us:**
+
+-   *Subway:* line 5 (blue), 'Hospital Clínic' station
+
+-   *Bus:* lines 14, 59, 63, 54, 66, 63, 67, 68, 31, 37
