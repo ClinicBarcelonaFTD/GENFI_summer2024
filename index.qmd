@@ -12,7 +12,7 @@ about:
 
 [![](genfi_logo.png){width=200}](https://www.genfi.org/   )
 
-[![](logo_clinic_ub.jpeg.jpg){width=200}](https://www.clinicbarcelona.org/)
+[![](logo_clinic_ub.jpeg){width=400}](https://www.clinicbarcelona.org/)
 
 [![](idibaps.png){width=200}](https://www.clinicbarcelona.org/idibaps/)
 
