@@ -2,4 +2,8 @@
 title: "Social Event"
 ---
 
-We are planning a social dinner with all of you for June 13th. Details will be announced soon. We hope you will join us!
+We are planning a social dinner with all of you for June 13th. It will be placed in the [**Barceloneta restaurant**](https://www.u232hotel.com/en).
+
+![](restaurant.png){fig-align="center" width="233"}
+
+If you have any food intolerance you can specify it in the following link or communicate it to me via mail: borrego\@clinic.cat.
