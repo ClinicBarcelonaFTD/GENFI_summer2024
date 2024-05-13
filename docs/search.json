@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GENFI summer meeting 2024",
+    "objectID": "about barcelona.html",
+    "href": "about barcelona.html",
+    "title": "About Barcelona",
     "section": "",
-    "text": "This is an informational website for the GENFI summer meeting in 2024 placed in Barcelona."
+    "text": "If you would like to get out and enjoy the city while enjoying this exciting meeting, our team can recommend some of the lesser-known places to visit in Barcelona.\n\nRaquel Sanchez Valle recommends… Tapas in carrer Blai\n\nCarrer de Blai, known as the tapas street of Barcelona, is literally a street where you will find tapa bar after tapa bar. The best way to enjoy this street is, first of all, to come on an empty stomach, and second, treat it as if you are bar hopping (but in this case pincho hopping). As soon as you enter any bar you will see yourself standing in front of a big variety of pinchos (it can almost get a little overwhelming!). Serve yourself: take a plate and fill it up with as many pinchos as you want, then the waiter will ask for your drinks and bring them to your table. Make sure you leave some space for the next bar, as every place has something different to offer, and enjoy the pinchos bar crawl!\n\n\nSergi Borrego Ecija recommends…  Mercat de Sant Antoni\n\nOur city is plenty of markets where you can eat, drink or simply walk between the smells and colours of our lively city. The most tourist of them is the Boqueria (placed in Las Ramblas), but my personal recommendation here is the Sant Antoni Market. Placed in a modernist building dated from 1882 this market is the heart of the neighborhood of the same name. Do not forget to lost yourself around the surrounding streets and enjoy some of the most popular pubs and restaurants in Barcelona.\n\n\nJordi Juncà recommends… Barceloneta\n\nBarceloneta is one of the most charismatic neighborhoods in our city. Built on the Mediterranean shore, traditionally, the life of this area was related to the sea: fishing, port activities, the construction of sailboats, etc…, and it is that seafaring essence which La Barceloneta has managed to preserve to this day. Without a doubt, visiting the neighborhood of La Barceloneta is one of the most authentic experiences the city offers. The best way to discover it is through getting lost in its streets and alleys.\n\n\nAgnès Perez recommends… Basílica de Santa Maria del Mar\n\nIt is very well-known Sagrada Família. However, you cannot leave Barcelona without visiting Basílica de Santa Maria del Mar. Located in the city’s historical centre and with a spectacular artistic and architectural heritage of the Catalan Gothic. It is considered the people’s church since it was built with the people’s money, not the nobility. The people of Barcelona have a special affection for it, so it is my personal recommendation. Then, you can walk around the Born neighbourhood, which is right there to drink or eat something there."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Location",
     "section": "",
-    "text": "Location:\nCampus Clinic, Faculty of Medicine\nCasanova street, 143. 08036, Barcelona\n\nHow to find us:\n\nSubway: line 5 (blue), ‘Hospital Clínic’ station\nBus: lines 14, 59, 63, 54, 66, 63, 67, 68, 31, 37"
+    "text": "Location:\nAula Magna\nCampus Clinic\nUniversity of Barcelona Faculty of Medicine\nCasanova street, 143. 08036, Barcelona\n\nHow to find us:\n\nSubway: line 5 (blue), ‘Hospital Clínic’ station\nBus: lines 14, 59, 63, 54, 66, 63, 67, 68, 31, 37"
   },
   {
     "objectID": "accommodation.html",
@@ -21,18 +21,11 @@
     "text": "We recommend these hotels near the meeting location.\nPlease, be aware that our city has a high hotel occupancy and book your room in advance.\n\nHotel U232\nHotel Barcelona America\nHotel NH Eixample\nHotel Granados 83"
   },
   {
-    "objectID": "social event.html",
-    "href": "social event.html",
-    "title": "Social Event",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GENFI summer meeting 2024",
     "section": "",
-    "text": "We are planning a social dinner with all of you for June 13th. It will be placed in the Barceloneta restaurant.\n\n\n\n\n\nIf you have any food intolerance you can specify it in the following link or communicate it to me via mail: borrego@clinic.cat."
-  },
-  {
-    "objectID": "about barcelona.html",
-    "href": "about barcelona.html",
-    "title": "About Barcelona",
-    "section": "",
-    "text": "If you would like to get out and enjoy the city while enjoying this exciting meeting, our team can recommend some of the lesser-known places to visit in Barcelona.\n\nRaquel Sanchez Valle recommends… Tapas in carrer Blai\n\nCarrer de Blai, known as the tapas street of Barcelona, is literally a street where you will find tapa bar after tapa bar. The best way to enjoy this street is, first of all, to come on an empty stomach, and second, treat it as if you are bar hopping (but in this case pincho hopping). As soon as you enter any bar you will see yourself standing in front of a big variety of pinchos (it can almost get a little overwhelming!). Serve yourself: take a plate and fill it up with as many pinchos as you want, then the waiter will ask for your drinks and bring them to your table. Make sure you leave some space for the next bar, as every place has something different to offer, and enjoy the pinchos bar crawl!\n\n\nSergi Borrego Ecija recommends…  Mercat de Sant Antoni\n\nOur city is plenty of markets where you can eat, drink or simply walk between the smells and colours of our lively city. The most tourist of them is the Boqueria (placed in Las Ramblas), but my personal recommendation here is the Sant Antoni Market. Placed in a modernist building dated from 1882 this market is the heart of the neighborhood of the same name. Do not forget to lost yourself around the surrounding streets and enjoy some of the most popular pubs and restaurants in Barcelona.\n\n\nJordi Juncà recommends… Barceloneta\n\nBarceloneta is one of the most charismatic neighborhoods in our city. Built on the Mediterranean shore, traditionally, the life of this area was related to the sea: fishing, port activities, the construction of sailboats, etc…, and it is that seafaring essence which La Barceloneta has managed to preserve to this day. Without a doubt, visiting the neighborhood of La Barceloneta is one of the most authentic experiences the city offers. The best way to discover it is through getting lost in its streets and alleys."
+    "text": "This is an informational website for the GENFI summer meeting in 2024 placed in Barcelona."
   },
   {
     "objectID": "program.html",
@@ -40,5 +33,19 @@
     "title": "Program",
     "section": "",
     "text": "You can find the meeting programme in this link:\nProgramme GENFI summer meeting 2024 - Barcelona"
+  },
+  {
+    "objectID": "social event.html",
+    "href": "social event.html",
+    "title": "Social Event",
+    "section": "",
+    "text": "We are planning a social dinner with all of you for June 13th. It will be placed in the Barceloneta restaurant.\n\n\n\n\n\nIf you have any food intolerance you can specify it in the following link or communicate it to me via mail: borrego@clinic.cat."
+  },
+  {
+    "objectID": "sponsors.html",
+    "href": "sponsors.html",
+    "title": "Sponsors",
+    "section": "",
+    "text": "We thank all our sponsors whose generosity has made this meeting possible:\nPlatinum sponsors:\n\n\nGold sponsors:"
   }
 ]
