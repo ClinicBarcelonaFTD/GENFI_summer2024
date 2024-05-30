@@ -13,6 +13,7 @@ website:
       - program.qmd
       - accommodation.qmd
       - social event.qmd
+      - sponsors.qmd
       - about barcelona.qmd
     logo: genfi_logo.png 
     logo-href: "https://www.genfi.org/"
