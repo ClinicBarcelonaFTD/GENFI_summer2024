@@ -6,12 +6,12 @@ We thank all our sponsors whose generosity has made this meeting possible:
 
 **Platinum sponsors:**
 
-![](bluefield.png)
+![](bluefield.png){width=300}
 
 
-![](lilly.jpg)
+![](lilly.jpg){width=300}
 
 
 **Gold sponsors:**
 
-![](alector.png)
+![](alector.png){width=300}
