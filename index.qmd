@@ -8,16 +8,14 @@ about:
   image-width: 40em 
 ---
 
-::: {layout-ncol=3}
+::: {layout-ncol="3"}
+[![](genfi_logo.png){width="200"}](https://www.genfi.org/)
 
-[![](genfi_logo.png){width=200}](https://www.genfi.org/   )
+[![](logo_clinic_ub.jpeg){width="400"}](https://www.clinicbarcelona.org/)
 
-[![](logo_clinic_ub.jpeg){width=400}](https://www.clinicbarcelona.org/)
-
-[![](idibaps.png){width=200}](https://www.clinicbarcelona.org/idibaps/)
-
-
+[![](idibaps.png){width="200"}](https://www.clinicbarcelona.org/idibaps/)
 :::
 
-This is an informational website for the GENFI summer meeting in 2024 placed in Barcelona.
+This is an informational website for the GENFI summer meeting in 2024 placed in Barcelona and online in the next link:
 
+<https://us02web.zoom.us/webinar/register/WN_4yBvVViMQ1iHVEQjSu1mQQ>
